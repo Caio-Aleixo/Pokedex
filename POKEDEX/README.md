@@ -19,4 +19,4 @@ Uma Pokédex interativa que exibe informações sobre os Pokémon com base em um
 
 1. Clone este repositório:
 
-   git clone https://github.com/seu-usuario/pokedex.git
+   [git clone https://github.com/seu-usuario/pokedex.git](https://github.com/Caio-Aleixo/Pokedex.git)
